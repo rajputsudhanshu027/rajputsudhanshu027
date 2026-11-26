@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hey, I'm Sudhanshu Rajput 👋
@@ -16,7 +17,9 @@
 
 - 🎓 Student passionate about software development and technology
 - 🔭 Exploring **AI, Machine Learning, Full Stack Development and Design**
+- ☕ Working with **Java, Spring and Spring Boot**
 - 🧠 Interested in building intelligent, practical applications
+- 🎨 Passionate about branding, visual design and motion graphics
 - 🚀 Working on forecasting, web applications and creative projects
 - 💡 Always learning, experimenting and building
 
@@ -24,7 +27,33 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,figma,postgres,docker,fastapi,tensorflow&perline=8)](https://skillicons.dev)
+#### Programming Languages
+
+[![Languages](https://skillicons.dev/icons?i=java,python,js,ts,html,css)](https://skillicons.dev)
+
+#### Frontend Development
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
+
+#### Backend Development
+
+[![Backend](https://skillicons.dev/icons?i=java,spring,nodejs,fastapi)](https://skillicons.dev)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+#### Artificial Intelligence & Machine Learning
+
+[![AI](https://skillicons.dev/icons?i=python,tensorflow)](https://skillicons.dev)
+
+#### Database, DevOps & Version Control
+
+[![Tools](https://skillicons.dev/icons?i=postgres,docker,git,github)](https://skillicons.dev)
+
+#### Creative Design & Adobe Creative Cloud
+
+[![Design](https://skillicons.dev/icons?i=figma,ps,ai,pr,ae)](https://skillicons.dev)
+
+![Adobe InDesign](https://img.shields.io/badge/Adobe_InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
 
 </div>
 
@@ -49,6 +78,8 @@
 
 <div align="center">
 
-*Learning. Building. Improving.*
+*Where technology meets creativity.*
+
+**Learning. Building. Improving.**
 
 </div>
